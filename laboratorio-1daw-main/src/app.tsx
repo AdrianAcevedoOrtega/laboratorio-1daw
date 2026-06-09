@@ -20,6 +20,7 @@ const OPTIONS: Option[] = [
     // Después:
 description: "Ramas de Git",
     message:
+    //
       "Una rama es una línea de desarrollo independiente. Puedes crear, fusionar y eliminar ramas sin afectar a main.",
     featureFlag: false,
   },
