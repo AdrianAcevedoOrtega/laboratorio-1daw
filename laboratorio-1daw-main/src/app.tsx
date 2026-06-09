@@ -14,7 +14,7 @@ const OPTIONS: Option[] = [
       "Todo repositorio empieza con un commit. Un commit es una foto de tu código en un momento dado.",
     featureFlag: false,
   },
-  {
+  {//
     id: 2,
     title: "Opción 2",
     description: "Ramas y merges",
